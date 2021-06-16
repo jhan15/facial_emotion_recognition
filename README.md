@@ -2,7 +2,7 @@
 Recognize the facial emotions in 7 categories: angry, disgust, fear, happy, sad, surprise, neutral.
 
 ## Model
-The API for face detection is Google's [mediapipe API](https://github.com/google/mediapipe). The model for emotion recognition is a 11-layer (8 convs + 3 fcs) VGG style network.
+The API for face detection is Google's [mediapipe API](https://github.com/google/mediapipe). The model for emotion recognition is a 15-layer (8 convs + 4 pooling + 3 fcs) VGG style network.
 
 ```bash
 Pipeline
