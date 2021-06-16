@@ -41,6 +41,9 @@ If you want infer directly, use inference.ipynb [![Open In Colab](https://colab.
 
 The weights I trained is located in [saved_models](https://github.com/jhan15/facial_emotion_recognition/tree/master/saved_models). The default setting is a voting classifer of a model trained by orginal data and a model trained by upsampled data.
 
+## Performance
+![image](https://user-images.githubusercontent.com/62132206/122231297-a4429d00-ceba-11eb-9108-8f9f03f253db.png)
+
 ## Result
 <img src="https://github.com/jhan15/facial_emotion_recognition/blob/master/run/inference/out_1.jpg?raw=true" width="500">
 <img src="https://github.com/jhan15/facial_emotion_recognition/blob/master/run/inference/out_3.jpg?raw=true" width="500">
