@@ -32,3 +32,10 @@ Pipeline
 The upsampling technique is SMOTE.
 
 ![image](https://user-images.githubusercontent.com/62132206/122207118-10fd6d80-cea2-11eb-98b1-b13e678be8f7.png)
+
+## Performance
+| Emotion       | No upsampling | Upsampled |
+| ------------- |--------------:| ---------:|
+| Atsuto        | 295           |       29.7|
+| Bob           | 516           |       51.9|
+| Jörg          | 183           |       18.4|
