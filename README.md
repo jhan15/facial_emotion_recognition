@@ -31,7 +31,6 @@ The upsampling technique is SMOTE.
 
 
 ## Usage
-You can try my codes in colab if you are interested in.
 
 ### Train
 If you have an dataset, you can train use training.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/training.ipynb)
