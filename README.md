@@ -21,26 +21,28 @@ Pipeline
 ├── face detection: mediapipe
 └── emotion recognition: vggnet
 ```
-### VGG architecture
+#### VGG architecture
 ![image](https://user-images.githubusercontent.com/62132206/122204954-004bf800-cea0-11eb-981b-c7b1cbb935fc.png)
 
-### Data flow
+#### Data flow
 
 ![image](https://user-images.githubusercontent.com/62132206/122206734-dd224800-cea1-11eb-9670-19b718667bbd.png)
 
-### Upsampling
+#### Upsampling
 The upsampling technique is SMOTE.
 
 ![image](https://user-images.githubusercontent.com/62132206/122207118-10fd6d80-cea2-11eb-98b1-b13e678be8f7.png)
 
-## Performance
-| Emotion       | No upsampling | Upsampled |
-| ------------- |--------------:| ---------:|
-| Atsuto        |            295|       29.7|
-| Bob           |            516|       51.9|
-| Jörg          |            183|       18.4|
-| Jörg          |            183|       18.4|
-| Jörg          |            183|       18.4|
-| Jörg          |            183|       18.4|
-| Jörg          |            183|       18.4|
-| Jörg          |            183|       18.4|
+
+## Usage
+You can try my codes in colab if you are interested in.
+
+#### Train
+If you have an dataset, you can train use train.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/train.ipynb)
+
+#### Inference
+If you want infer directly, use inference.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/inference.ipynb)
+
+The weights I trained is located in [saved_models](https://github.com/jhan15/facial_emotion_recognition/tree/master/saved_models).
+
+## Result
