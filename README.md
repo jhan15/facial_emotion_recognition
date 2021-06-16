@@ -36,6 +36,12 @@ The upsampling technique is SMOTE.
 ## Performance
 | Emotion       | No upsampling | Upsampled |
 | ------------- |--------------:| ---------:|
-| Atsuto        | 295           |       29.7|
-| Bob           | 516           |       51.9|
-| Jörg          | 183           |       18.4|
+| Atsuto        |            295|       29.7|
+| Bob           |            516|       51.9|
+| Jörg          |            183|       18.4|
+| Jörg          |            183|       18.4|
+| Jörg          |            183|       18.4|
+| Jörg          |            183|       18.4|
+| Jörg          |            183|       18.4|
+| ------------- |--------------:| ---------:|
+| Jörg          |            183|       18.4|
