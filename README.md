@@ -7,7 +7,7 @@ Recognize the facial emotions in 7 categories: angry, disgust, fear, happy, sad,
 ## Dataset
 The dataset is provided by a competition, which is quite similar to FER2013 dataset.
 
-![image](https://user-images.githubusercontent.com/62132206/122206330-89176380-cea1-11eb-9ef4-01bf1ce95a7c.png)
+![image](https://user-images.githubusercontent.com/62132206/122208856-22e01000-cea4-11eb-8047-24e3a01e28f2.png)
 
 The training data distribution is shown below.
 
