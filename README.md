@@ -9,10 +9,6 @@ The dataset is provided by a competition, which is quite similar to FER2013 data
 
 ![image](https://user-images.githubusercontent.com/62132206/122208856-22e01000-cea4-11eb-8047-24e3a01e28f2.png)
 
-The training data distribution is shown below.
-
-![image](https://user-images.githubusercontent.com/62132206/122207240-35f1e080-cea2-11eb-8e03-bacda4bfc640.png)
-
 ## Model
 The API for face detection is Google's [mediapipe API](https://github.com/google/mediapipe). The model for emotion recognition is a 15-layer (8 convs + 4 pooling + 3 fcs) VGG style network.
 
