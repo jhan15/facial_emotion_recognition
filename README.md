@@ -1,3 +1,6 @@
+[![GitHub issues](https://img.shields.io/github/issues/jhan15/facial_emotion_recognition)](https://github.com/jhan15/facial_emotion_recognition/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/facial_emotion_recognition?color=ff69b4)
+
 # facial_emotion_recognition
 Recognize the facial emotions in 7 categories: angry, disgust, fear, happy, sad, surprise, neutral.
 
