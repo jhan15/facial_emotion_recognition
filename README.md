@@ -28,3 +28,7 @@ Pipeline
 
 ![image](https://user-images.githubusercontent.com/62132206/122206734-dd224800-cea1-11eb-9670-19b718667bbd.png)
 
+### Upsampling
+The upsampling technique is SMOTE.
+
+![image](https://user-images.githubusercontent.com/62132206/122207118-10fd6d80-cea2-11eb-98b1-b13e678be8f7.png)
