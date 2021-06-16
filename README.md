@@ -23,3 +23,8 @@ Pipeline
 ```
 ### VGG architecture
 ![image](https://user-images.githubusercontent.com/62132206/122204954-004bf800-cea0-11eb-981b-c7b1cbb935fc.png)
+
+### Data flow
+
+![image](https://user-images.githubusercontent.com/62132206/122206734-dd224800-cea1-11eb-9670-19b718667bbd.png)
+
