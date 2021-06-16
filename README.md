@@ -7,7 +7,7 @@ Recognize the facial emotions in 7 categories: angry, disgust, fear, happy, sad,
 ## Dataset
 The dataset is provided by a competition, which is quite similar to FER2013 dataset. The training data distribution is shown below.
 
-![image](https://user-images.githubusercontent.com/62132206/122206019-32aa2500-cea1-11eb-9986-368dd29ab7da.png)
+![image](https://user-images.githubusercontent.com/62132206/122206166-5c634c00-cea1-11eb-9f3c-af4114fac1dd.png)
 
 ## Model
 The API for face detection is Google's [mediapipe API](https://github.com/google/mediapipe). The model for emotion recognition is a 15-layer (8 convs + 4 pooling + 3 fcs) VGG style network.
