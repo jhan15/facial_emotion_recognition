@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/facial_emotion_recognition?color=ff69b4)
 
 # facial_emotion_recognition
-Recognize the facial emotions in 7 categories: angry, disgust, fear, happy, sad, surprise, neutral.
+Recognize facial emotions in 7 categories: angry, disgust, fear, happy, sad, surprise, neutral.
 
 ## Dataset
 The dataset is provided by a competition, which is quite similar to FER2013 dataset.
@@ -33,7 +33,7 @@ The upsampling technique is SMOTE.
 ## Usage
 
 ### Train
-If you have an dataset, you can train use training.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/training.ipynb)
+If you have a dataset, you can train use training.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/training.ipynb)
 
 ### Inference
 If you want infer directly, use inference.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jhan15/facial_emotion_recognition/blob/master/inference.ipynb)
