@@ -44,6 +44,13 @@ The weights I trained is located in [saved_models](https://github.com/jhan15/fac
 ![image](https://user-images.githubusercontent.com/62132206/122231604-d94eef80-ceba-11eb-9ad4-1f73517da0ec.png)
 
 ## Result
+
+### Video
+
+<img src="https://user-images.githubusercontent.com/62132206/122562096-f7475c00-d042-11eb-9db0-f22fcba2720e.gif" width="500">
+
+### Images
+
 <img src="https://github.com/jhan15/facial_emotion_recognition/blob/master/run/inference/out_1.jpg?raw=true" width="500">
 <img src="https://github.com/jhan15/facial_emotion_recognition/blob/master/run/inference/out_3.jpg?raw=true" width="500">
 <img src="https://github.com/jhan15/facial_emotion_recognition/blob/master/run/inference/out_5.jpg?raw=true" width="500">
